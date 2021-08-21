@@ -1,11 +1,15 @@
 .display {
   margin-top: 20px;
   height: 80px;
-  font-size: 50px;
+  font-size: 60px;
+  text-align: right;
+}
+#display{
+  font-size: 30px;
 }
 
 .linha{
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 .linha button{
